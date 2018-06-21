@@ -1,0 +1,609 @@
+18 Jul 2017 11:05:39, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:41, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:42, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:43, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:44, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:45, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:46, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:47, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:48, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:49, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:51, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:52, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:53, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:54, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:55, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:56, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:57, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:58, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:05:59, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:06:01, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:06:02, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:06:03, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 11:06:04, WARNING, power,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 12:58:52, WARNING, power,-2
+18 Jul 2017 12:58:53, WARNING, power,-2
+18 Jul 2017 12:58:54, WARNING, power,-2
+18 Jul 2017 12:58:55, WARNING, power,-2
+18 Jul 2017 12:58:56, WARNING, power,-2
+18 Jul 2017 12:58:57, WARNING, power,-2
+18 Jul 2017 12:58:58, WARNING, power,-2
+18 Jul 2017 12:58:59, WARNING, power,-2
+18 Jul 2017 12:59:00, WARNING, power,-2
+18 Jul 2017 12:59:01, WARNING, power,-2
+18 Jul 2017 12:59:03, WARNING, power,-2
+18 Jul 2017 12:59:04, WARNING, power,-2
+18 Jul 2017 12:59:05, WARNING, power,-2
+18 Jul 2017 12:59:06, WARNING, power,-2
+18 Jul 2017 12:59:07, WARNING, power,-2
+18 Jul 2017 12:59:08, WARNING, power,-2
+18 Jul 2017 12:59:09, WARNING, power,-2
+18 Jul 2017 12:59:10, WARNING, power,-2
+18 Jul 2017 12:59:11, WARNING, power,-2
+18 Jul 2017 12:59:12, WARNING, power,-2
+18 Jul 2017 12:59:13, WARNING, power,-2
+18 Jul 2017 12:59:14, WARNING, power,-2
+18 Jul 2017 12:59:15, WARNING, power,-2
+18 Jul 2017 12:59:16, WARNING, power,-2
+18 Jul 2017 12:59:17, WARNING, power,-2
+18 Jul 2017 13:08:32, INFO, power,-2
+18 Jul 2017 13:08:33, INFO, power,-2
+18 Jul 2017 13:08:34, INFO, power,-2
+18 Jul 2017 13:08:35, INFO, power,-2
+18 Jul 2017 13:08:36, INFO, power,-2
+18 Jul 2017 13:08:37, INFO, power,-2
+18 Jul 2017 13:08:38, INFO, power,-2
+18 Jul 2017 13:08:40, INFO, power,-2
+18 Jul 2017 13:08:41, INFO, power,-2
+18 Jul 2017 13:08:42, INFO, power,-2
+18 Jul 2017 13:08:43, INFO, power,-2
+18 Jul 2017 13:08:44, INFO, power,-2
+18 Jul 2017 13:08:45, INFO, power,-2
+18 Jul 2017 13:08:46, INFO, power,-2
+18 Jul 2017 13:08:47, INFO, power,-2
+18 Jul 2017 13:08:48, INFO, power,-2
+18 Jul 2017 13:08:49, INFO, power,-2
+18 Jul 2017 13:08:50, INFO, power,-2
+18 Jul 2017 13:08:51, INFO, power,-2
+18 Jul 2017 13:08:52, INFO, power,-2
+18 Jul 2017 13:08:53, INFO, power,-2
+18 Jul 2017 13:08:55, INFO, power,-2
+18 Jul 2017 13:08:56, INFO, power,-2
+18 Jul 2017 13:08:57, INFO, power,-2
+18 Jul 2017 13:08:58, INFO, power,-2
+18 Jul 2017 13:08:59, INFO, power,-2
+18 Jul 2017 13:09:00, INFO, power,-2
+18 Jul 2017 13:09:01, INFO, power,-2
+18 Jul 2017 13:09:02, INFO, power,-2
+18 Jul 2017 13:09:03, INFO, power,-2
+18 Jul 2017 13:09:04, INFO, power,-2
+18 Jul 2017 13:09:05, INFO, power,-2
+18 Jul 2017 13:09:06, INFO, power,-2
+18 Jul 2017 13:09:07, INFO, power,-2
+18 Jul 2017 13:09:08, INFO, power,-2
+18 Jul 2017 13:09:12, INFO, power,-2
+18 Jul 2017 13:09:13, INFO, power,-2
+18 Jul 2017 13:09:14, INFO, power,-2
+18 Jul 2017 13:09:15, INFO, power,-2
+18 Jul 2017 13:09:16, INFO, power,-2
+18 Jul 2017 13:09:17, INFO, power,-2
+18 Jul 2017 13:09:18, INFO, power,-2
+18 Jul 2017 13:09:19, INFO, power,-2
+18 Jul 2017 13:09:20, INFO, power,-2
+18 Jul 2017 13:09:22, INFO, power,-2
+18 Jul 2017 13:09:23, INFO, power,-2
+18 Jul 2017 13:09:24, INFO, power,-2
+18 Jul 2017 13:09:25, INFO, power,-2
+18 Jul 2017 13:09:26, INFO, power,-2
+18 Jul 2017 13:09:27, INFO, power,-2
+18 Jul 2017 13:09:28, INFO, power,-2
+18 Jul 2017 13:09:29, INFO, power,-2
+18 Jul 2017 13:09:30, INFO, power,-2
+18 Jul 2017 13:09:31, INFO, power,-2
+18 Jul 2017 13:09:32, INFO, power,-2
+18 Jul 2017 13:09:33, INFO, power,-2
+18 Jul 2017 13:09:34, INFO, power,-2
+18 Jul 2017 13:09:36, INFO, power,-2
+18 Jul 2017 13:09:37, INFO, power,-2
+18 Jul 2017 13:09:38, INFO, power,-2
+18 Jul 2017 13:09:39, INFO, power,-2
+18 Jul 2017 13:09:40, INFO, power,-2
+18 Jul 2017 13:09:41, INFO, power,-2
+18 Jul 2017 13:09:42, INFO, power,-2
+18 Jul 2017 13:09:43, INFO, power,-2
+18 Jul 2017 13:09:44, INFO, power,-2
+18 Jul 2017 13:10:48, INFO, power,-2
+18 Jul 2017 13:10:49, INFO, power,-2
+18 Jul 2017 13:10:50, INFO, power,-2
+18 Jul 2017 13:10:51, INFO, power,-2
+18 Jul 2017 13:10:52, INFO, power,-2
+18 Jul 2017 13:10:53, INFO, power,-2
+18 Jul 2017 13:10:54, INFO, power,-2
+18 Jul 2017 13:10:55, INFO, power,-2
+18 Jul 2017 13:10:57, INFO, power,-2
+18 Jul 2017 13:10:58, INFO, power,-2
+18 Jul 2017 13:10:59, INFO, power,-2
+18 Jul 2017 13:11:00, INFO, power,-2
+18 Jul 2017 13:11:01, INFO, power,-2
+18 Jul 2017 13:11:02, INFO, power,-2
+18 Jul 2017 13:11:03, INFO, power,-2
+18 Jul 2017 13:13:45, INFO, power,-2
+18 Jul 2017 13:13:46, INFO, power,-2
+18 Jul 2017 13:13:47, INFO, power,-2
+18 Jul 2017 13:13:49, INFO, power,-2
+18 Jul 2017 13:13:50, INFO, power,-2
+18 Jul 2017 13:13:51, INFO, power,-2
+18 Jul 2017 13:13:52, INFO, power,-2
+18 Jul 2017 13:13:54, INFO, power,-2
+18 Jul 2017 13:15:21, INFO, power,-2
+18 Jul 2017 13:15:22, INFO, power,-2
+18 Jul 2017 13:15:24, INFO, power,-2
+18 Jul 2017 13:15:25, INFO, power,-2
+18 Jul 2017 13:15:26, INFO, power,-2
+18 Jul 2017 13:15:27, INFO, power,-2
+18 Jul 2017 13:15:28, INFO, power,-2
+18 Jul 2017 13:15:29, INFO, power,-2
+18 Jul 2017 13:17:12, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:12, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:12, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:12, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:12, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:12, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:12, INFO, power,-2
+18 Jul 2017 13:17:13, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:13, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:13, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:13, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:14, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:14, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:14, INFO, power,-2
+18 Jul 2017 13:17:14, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:14, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:14, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:15, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:15, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:15, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:15, INFO, power,-2
+18 Jul 2017 13:17:15, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:16, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:16, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:16, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:16, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:16, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:16, INFO, power,-2
+18 Jul 2017 13:17:17, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:17, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:17, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:17, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:17, INFO, power,-2
+18 Jul 2017 13:17:18, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:18, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:18, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:18, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:18, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:18, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:18, INFO, power,-2
+18 Jul 2017 13:17:19, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:19, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:19, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:19, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:19, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:19, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:19, INFO, power,-2
+18 Jul 2017 13:17:20, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:20, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:20, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:20, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:20, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:20, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:20, INFO, power,-2
+18 Jul 2017 13:17:21, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:21, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:21, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:21, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:21, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:21, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:21, INFO, power,-2
+18 Jul 2017 13:17:22, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:22, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:22, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:22, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:22, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:22, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:22, INFO, power,-2
+18 Jul 2017 13:17:23, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:23, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:23, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:23, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:23, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:23, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:23, INFO, power,-2
+18 Jul 2017 13:17:24, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:24, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:24, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:24, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:24, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:24, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:24, INFO, power,-2
+18 Jul 2017 13:17:25, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:25, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:25, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:25, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:25, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:25, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:25, INFO, power,-2
+18 Jul 2017 13:17:26, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:26, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:26, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:26, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:26, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:26, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:26, INFO, power,-2
+18 Jul 2017 13:17:27, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:27, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:27, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:27, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:28, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:28, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:28, INFO, power,-2
+18 Jul 2017 13:17:28, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:28, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:28, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:29, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:29, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:29, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:29, INFO, power,-2
+18 Jul 2017 13:17:29, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:29, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:29, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:30, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:30, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:30, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:30, INFO, power,-2
+18 Jul 2017 13:17:30, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:31, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:31, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:31, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:31, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:31, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:31, INFO, power,-2
+18 Jul 2017 13:17:32, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:32, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:32, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:32, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:32, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:32, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:32, INFO, power,-2
+18 Jul 2017 13:17:33, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:33, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:33, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:33, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:33, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:33, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:33, INFO, power,-2
+18 Jul 2017 13:17:34, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:34, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:34, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:34, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:34, INFO, power,-2
+18 Jul 2017 13:17:34, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:34, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:35, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:35, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:35, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:35, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:35, INFO, power,-2
+18 Jul 2017 13:17:35, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:35, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:36, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:36, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:36, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:36, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:36, INFO, power,-2
+18 Jul 2017 13:17:36, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:36, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:37, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:37, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+18 Jul 2017 13:17:37, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/stat/ele_info?v=1500288534578&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:37, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+18 Jul 2017 13:17:37, INFO, power,-2
+18 Jul 2017 13:17:37, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 83
+18 Jul 2017 13:17:37, DEBUG, debug,{"code":"2","description":"Invalid client","result":"fail","dev_sn":"808000223163"}
+19 Jul 2017 04:54:04, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:54:05, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 04:54:05, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:54:16, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:54:16, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:54:16, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:54:25, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:54:25, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 04:54:25, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:54:36, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:54:36, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:54:36, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:54:56, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:54:57, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:54:57, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:55:17, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:55:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:55:17, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:55:37, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:55:37, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:55:37, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:55:57, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:55:57, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:55:57, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:56:17, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:56:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:56:17, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 04:57:28, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:57:29, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:57:29, DEBUG, debug,1,0,30
+19 Jul 2017 04:57:49, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:57:49, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:57:49, DEBUG, debug,1,0,30
+19 Jul 2017 04:58:09, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 04:58:09, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 04:58:09, DEBUG, debug,1,0,30
+19 Jul 2017 05:03:23, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:03:23, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:03:23, INFO, debug,-2,-2,-2
+19 Jul 2017 05:03:43, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:03:43, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:03:43, INFO, debug,-2,-2,-2
+19 Jul 2017 05:04:03, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:04:04, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:04:04, INFO, debug,-2,-2,-2
+19 Jul 2017 05:04:16, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:04:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:04:17, INFO, debug,-2,-2,-2
+19 Jul 2017 05:07:02, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:07:03, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:13:05, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:13:05, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:13:05, INFO, debug,1,0,31
+19 Jul 2017 05:13:05, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:13:05, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?action=put&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:13:05, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":31,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:13:05, INFO, open,0,31
+19 Jul 2017 05:13:25, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:13:26, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:13:26, INFO, debug,1,0,31
+19 Jul 2017 05:13:26, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:13:26, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?action=put&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:13:26, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":31,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:13:26, INFO, open,0,31
+19 Jul 2017 05:13:46, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:13:46, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:13:46, INFO, debug,1,0,31
+19 Jul 2017 05:13:46, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:13:46, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?action=put&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:13:46, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":31,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:13:46, INFO, open,0,31
+19 Jul 2017 05:17:58, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:17:59, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:17:59, INFO, debug,1,0,31
+19 Jul 2017 05:17:59, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:17:59, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?action=put&v=1500288518955 HTTP/1.1" 200 382
+19 Jul 2017 05:17:59, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":1,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":31,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:17:59, INFO, open,1,31
+19 Jul 2017 05:17:59, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:17:59, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?action=put&v=1500288514773 HTTP/1.1" 200 382
+19 Jul 2017 05:17:59, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":31,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:17:59, INFO, open,0,31
+19 Jul 2017 05:18:19, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:18:25, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?action=get&v=1500288514773 HTTP/1.1" 200 77
+19 Jul 2017 05:18:25, INFO, debug,1,0,31
+19 Jul 2017 05:18:25, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:18:31, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?action=put&v=1500288518955 HTTP/1.1" 200 77
+19 Jul 2017 05:18:31, DEBUG, debug,{"code":"4","description":"Time out","result":"fail","dev_sn":"808000223163"}
+19 Jul 2017 05:32:51, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:32:52, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:32:52, INFO, debug,-2,-2,-2
+19 Jul 2017 05:33:12, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:33:12, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:33:12, INFO, debug,-2,-2,-2
+19 Jul 2017 05:33:32, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:33:32, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:33:32, INFO, debug,-2,-2,-2
+19 Jul 2017 05:33:52, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:33:52, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:33:52, INFO, debug,-2,-2,-2
+19 Jul 2017 05:34:12, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:34:12, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:34:12, INFO, debug,-2,-2,-2
+19 Jul 2017 05:34:32, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:34:32, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:34:32, INFO, debug,-2,-2,-2
+19 Jul 2017 05:34:52, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:34:52, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:34:52, INFO, debug,-2,-2,-2
+19 Jul 2017 05:35:12, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:35:12, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:35:12, INFO, debug,-2,-2,-2
+19 Jul 2017 05:35:32, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:35:33, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:35:33, INFO, debug,-2,-2,-2
+19 Jul 2017 05:35:53, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:35:53, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:35:53, INFO, debug,-2,-2,-2
+19 Jul 2017 05:36:13, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:36:13, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:36:13, INFO, debug,-2,-2,-2
+19 Jul 2017 05:36:33, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:36:33, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:36:33, INFO, debug,-2,-2,-2
+19 Jul 2017 05:36:53, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:36:53, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:36:53, INFO, debug,-2,-2,-2
+19 Jul 2017 05:37:13, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:37:13, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:37:13, INFO, debug,-2,-2,-2
+19 Jul 2017 05:37:33, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:37:33, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:37:33, INFO, debug,-2,-2,-2
+19 Jul 2017 05:37:53, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:37:53, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:37:53, INFO, debug,-2,-2,-2
+19 Jul 2017 05:38:13, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:38:13, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:38:13, INFO, debug,-2,-2,-2
+19 Jul 2017 05:38:33, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:38:34, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:38:34, INFO, debug,-2,-2,-2
+19 Jul 2017 05:38:54, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:38:54, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:38:54, INFO, debug,-2,-2,-2
+19 Jul 2017 05:39:14, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:39:14, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:39:14, INFO, debug,-2,-2,-2
+19 Jul 2017 05:39:34, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:39:34, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:39:34, INFO, debug,-2,-2,-2
+19 Jul 2017 05:39:54, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:39:54, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:39:54, INFO, debug,-2,-2,-2
+19 Jul 2017 05:40:14, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:40:14, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:40:14, INFO, debug,-2,-2,-2
+19 Jul 2017 05:40:34, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:40:34, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:40:34, INFO, debug,-2,-2,-2
+19 Jul 2017 05:40:54, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:40:54, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:40:54, INFO, debug,-2,-2,-2
+19 Jul 2017 05:41:14, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:41:14, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:41:14, INFO, debug,-2,-2,-2
+19 Jul 2017 05:41:34, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:41:34, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:41:34, INFO, debug,-2,-2,-2
+19 Jul 2017 05:41:54, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:41:55, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:41:55, INFO, debug,-2,-2,-2
+19 Jul 2017 05:42:15, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:42:15, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:42:15, INFO, debug,-2,-2,-2
+19 Jul 2017 05:42:35, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:42:35, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:42:35, INFO, debug,-2,-2,-2
+19 Jul 2017 05:42:55, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:42:55, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:42:55, INFO, debug,-2,-2,-2
+19 Jul 2017 05:43:15, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:43:15, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:43:15, INFO, debug,-2,-2,-2
+19 Jul 2017 05:43:35, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:43:35, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:43:35, INFO, debug,-2,-2,-2
+19 Jul 2017 05:43:55, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:43:55, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:43:55, INFO, debug,-2,-2,-2
+19 Jul 2017 05:44:15, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:44:15, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:44:15, INFO, debug,-2,-2,-2
+19 Jul 2017 05:44:35, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:44:36, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:44:36, INFO, debug,-2,-2,-2
+19 Jul 2017 05:44:56, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:44:56, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:44:56, INFO, debug,-2,-2,-2
+19 Jul 2017 05:45:16, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:45:16, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:45:16, INFO, debug,-2,-2,-2
+19 Jul 2017 05:45:36, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:45:36, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:45:36, INFO, debug,-2,-2,-2
+19 Jul 2017 05:45:56, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:45:56, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:45:56, INFO, debug,-2,-2,-2
+19 Jul 2017 05:46:16, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:46:16, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:46:16, INFO, debug,-2,-2,-2
+19 Jul 2017 05:46:36, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:46:36, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:46:36, INFO, debug,-2,-2,-2
+19 Jul 2017 05:46:56, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:46:56, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 84
+19 Jul 2017 05:46:56, INFO, debug,-2,-2,-2
+19 Jul 2017 05:47:16, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:16, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:47:16, INFO, debug,1,0,30
+19 Jul 2017 05:47:16, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?v=1500288518955&action=put HTTP/1.1" 200 382
+19 Jul 2017 05:47:17, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":1,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:47:17, INFO, open,1,30
+19 Jul 2017 05:47:17, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:47:17, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:17, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?v=1500288514773&action=put HTTP/1.1" 200 382
+19 Jul 2017 05:47:17, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:47:17, INFO, open,0,30
+19 Jul 2017 05:47:37, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:37, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:47:37, INFO, debug,1,0,30
+19 Jul 2017 05:47:37, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:37, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?v=1500288518955&action=put HTTP/1.1" 200 382
+19 Jul 2017 05:47:37, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":1,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:47:37, INFO, open,1,30
+19 Jul 2017 05:47:37, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:38, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:47:38, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:38, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?v=1500288514773&action=put HTTP/1.1" 200 382
+19 Jul 2017 05:47:38, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:47:38, INFO, open,0,30
+19 Jul 2017 05:47:58, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:58, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:47:58, INFO, debug,1,0,30
+19 Jul 2017 05:47:58, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:58, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?v=1500288518955&action=put HTTP/1.1" 200 382
+19 Jul 2017 05:47:58, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":1,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:47:58, INFO, open,1,30
+19 Jul 2017 05:47:58, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:58, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/query_run_status?v=1500288514773&action=get HTTP/1.1" 200 382
+19 Jul 2017 05:47:58, DEBUG, Starting new HTTP connection (1): wechat.ifanscloud.com
+19 Jul 2017 05:47:58, DEBUG, http://wechat.ifanscloud.com:80 "POST /wxpub/wukong/air_condition/air_ctrl?v=1500288514773&action=put HTTP/1.1" 200 382
+19 Jul 2017 05:47:58, DEBUG, debug,{"code":"0","description":"Success","result":"success","dev_sn":"808000223163","data":{"online":1,"onoff":0,"set_mode":1,"set_temperature":10,"set_wind":0,"set_direct":0,"key":0,"temperature":30,"on_valid":0,"on_day":0,"on_hour":0,"on_min":0,"off_valid":0,"off_day":0,"off_hour":0,"off_min":0,"onoff_same":0,"winddir_same":0,"wind_isreverse":0,"envtemp_factor":30,"ele_factor":100}}
+19 Jul 2017 05:47:58, INFO, open,0,30
+19 Jul 2017 05:48:59, INFO, debug,1,0,30
+19 Jul 2017 05:49:00, INFO, open,1,30
+19 Jul 2017 05:49:00, INFO, open,0,30
+19 Jul 2017 05:49:20, INFO, debug,1,0,30
+19 Jul 2017 05:49:20, INFO, open,1,30
+19 Jul 2017 05:49:21, INFO, open,0,30
+19 Jul 2017 05:49:41, INFO, debug,1,0,30
+19 Jul 2017 05:49:41, INFO, open,1,30
+19 Jul 2017 05:49:41, INFO, open,0,30
+19 Jul 2017 05:50:02, INFO, debug,1,0,30
+19 Jul 2017 05:50:02, INFO, open,1,30
+19 Jul 2017 05:50:03, INFO, open,0,30
+19 Jul 2017 05:50:23, INFO, debug,1,0,30
+19 Jul 2017 05:50:23, INFO, open,1,30
+19 Jul 2017 05:50:24, INFO, open,0,30
+19 Jul 2017 05:50:44, INFO, debug,1,0,30
+19 Jul 2017 05:50:44, INFO, open,1,30
+19 Jul 2017 05:50:44, INFO, open,0,30
+19 Jul 2017 05:51:05, INFO, debug,1,0,30
+19 Jul 2017 05:51:05, INFO, open,1,30
+19 Jul 2017 05:51:05, INFO, open,0,30
+19 Jul 2017 05:51:17, INFO, debug,1,0,30
+19 Jul 2017 05:51:17, INFO, close,1,30
+19 Jul 2017 05:51:17, INFO, open,0,30
+19 Jul 2017 05:51:37, INFO, debug,1,0,30
+19 Jul 2017 05:51:38, INFO, close,1,30
+19 Jul 2017 05:51:38, INFO, open,0,30
+19 Jul 2017 05:56:43, INFO, debug,1,0,30
+19 Jul 2017 05:57:12, INFO, debug,1,0,30
+19 Jul 2017 05:57:41, INFO, debug,1,0,30
+19 Jul 2017 05:58:09, INFO, debug,1,1,30
+19 Jul 2017 05:58:10, INFO, open,0,30
+19 Jul 2017 05:58:30, INFO, debug,1,0,30
+19 Jul 2017 05:58:59, INFO, debug,1,0,30
+19 Jul 2017 05:59:28, INFO, debug,1,0,30
+19 Jul 2017 05:59:56, INFO, debug,1,0,30
+19 Jul 2017 06:00:25, INFO, debug,1,0,30
+19 Jul 2017 06:00:54, INFO, debug,1,0,30
+19 Jul 2017 06:01:23, INFO, debug,1,1,30
+19 Jul 2017 06:01:23, INFO, open,0,30
